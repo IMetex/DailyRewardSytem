@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef56ca9871d4a60ba9a95dd97f34e80, type: 3}
+  m_Name: Cat
+  m_EditorClassIdentifier: 
+  gameIcon: {fileID: -1056228834, guid: dd7277410f6805e42bdb06d60b8ce013, type: 3}
+  gameID: 95
+  gameVideoTexture: {fileID: 8400000, guid: 40a1a1136f70ee34eac13c684e529d69, type: 2}
+  gameVideoClip: {fileID: 32900000, guid: 2188572d30ee9d642940a1007bf1d702, type: 3}
+  gameName: Cat
